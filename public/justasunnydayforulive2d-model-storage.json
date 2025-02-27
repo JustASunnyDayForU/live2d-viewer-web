@@ -1,0 +1,19 @@
+{
+  "models": {
+    "name": "JustASunnyDayForU/live2d-model-storage",
+    "children": [
+      {
+        "name": "Jam2025Char",
+        "files": [
+          "runtime/jam20225char.model3.json"
+        ]
+      },
+      {
+        "name": "Pulita",
+        "files": [
+          "runtime/pulita_pL2D.model3.json"
+        ]
+      }
+    ]
+  }
+}
