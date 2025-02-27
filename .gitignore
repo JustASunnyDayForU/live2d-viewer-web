@@ -1,4 +1,4 @@
-live2dcubismcore*
+
 
 scripts/**/*.json
 public/*.json
@@ -111,4 +111,3 @@ dist
 # TernJS port file
 .tern-port
 
-!public\live2dcubismcore.min.js
