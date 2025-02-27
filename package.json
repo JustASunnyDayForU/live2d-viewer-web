@@ -25,7 +25,7 @@
     "pixi.js": "^6.5.2",
     "stats.js": "^0.17.0",
     "vue": "^2.7.10",
-    "vuetify": "^2.2.11"
+    "vuetify": "^2.5.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-typescript": "~5.0.8",
@@ -44,6 +44,9 @@
     "last 2 versions",
     "not dead"
   ],
+  "resolutions": {
+  "ignore-engines": true
+},
   "license": "MIT",
   "repository": "git@github.com:guansss/live2d-viewer-web.git"
 }
