@@ -44,9 +44,6 @@
     "last 2 versions",
     "not dead"
   ],
-  "resolutions": {
-  "ignore-engines": true
-},
   "license": "MIT",
   "repository": "git@github.com:guansss/live2d-viewer-web.git"
 }
