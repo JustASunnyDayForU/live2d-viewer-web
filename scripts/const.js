@@ -1,6 +1,5 @@
 const repos = [
-    'Eikanya/Live2d-model',
-    'guansss/pixi-live2d-display',
+    'JustASunnyDayForU/live2d-model-storage',
 ];
 
 const folderBlacklist = [
