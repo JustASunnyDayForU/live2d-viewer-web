@@ -5,7 +5,7 @@
       {
         "name": "CharDesignClass",
         "files": [
-          "Knight/runtime/finalchardesign3l2d.model3.json",
+          "Knight2/runtime/knightchards.model3.json",
           "Priestess/runtime/chardesignfinall2d(priestess).model3.json",
           "Rouge/runtime/chardesignfinall2d(rouge).model3.json"
         ]
