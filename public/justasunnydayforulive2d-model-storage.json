@@ -3,9 +3,42 @@
     "name": "JustASunnyDayForU/live2d-model-storage",
     "children": [
       {
+        "name": "CharDesignClass",
+        "files": [
+          "Knight/runtime/finalchardesign3l2d.model3.json",
+          "Priestess/runtime/chardesignfinall2d(priestess).model3.json",
+          "Rouge/runtime/chardesignfinall2d(rouge).model3.json"
+        ]
+      },
+      {
+        "name": "GameProject2",
+        "files": [
+          "AoeTower/runtime/aoetower.model3.json",
+          "BasicTower/runtime/basictower_sd.model3.json",
+          "BurstTower/runtime/gp2(burstunit).model3.json",
+          "FastEnemy/runtime/fastenemy_sd.model3.json",
+          "IceTower/runtime/icetower_sd.model3.json",
+          "NormalEnemy/runtime/normaenemy_sd.model3.json",
+          "StunEnemy/runtime/stunenemy.model3.json",
+          "TankEnemy/runtime/tankenemy.model3.json"
+        ]
+      },
+      {
         "name": "Jam2025Char",
         "files": [
           "runtime/jam20225char.model3.json"
+        ]
+      },
+      {
+        "name": "Jam2025Piecer",
+        "files": [
+          "runtime/piercer.model3.json"
+        ]
+      },
+      {
+        "name": "P'Bow",
+        "files": [
+          "runtime/p,bow.model3.json"
         ]
       },
       {
